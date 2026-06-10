@@ -1,4 +1,4 @@
-# 
+# Automatic AI leaf disease detection system tools. Featuring chatbot-integration and model-training — optimized for maximum performance.
 
 
 
